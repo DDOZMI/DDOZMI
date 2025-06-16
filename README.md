@@ -6,4 +6,4 @@
 ![title](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)   ![title](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)   ![title](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)   
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDOZMI&layout=compact)
