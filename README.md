@@ -57,6 +57,5 @@
 </div>
 
 ###
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDOZMI&layout=compact)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDOZMI&layout=compact)(https://github.com/DDOZMI/github-readme-stats)
