@@ -59,4 +59,5 @@
 ###
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOZMI&layout=compact" />
+  ![Stats](./profile/stats.svg)
 </p>
